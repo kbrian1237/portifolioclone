@@ -39,7 +39,7 @@ We recreated the original website using only **HTML** and **CSS**, with optional
 ---
 
 ## 🔗 Live Demo
-(*Add GitHub Pages link if deployed.*)
+https://kbrian1237.github.io/portifolioclone/
 
 ## 📦 Repository Link
 https://github.com/kbrian1237/portifolioclone
