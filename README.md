@@ -42,4 +42,4 @@ We recreated the original website using only **HTML** and **CSS**, with optional
 (*Add GitHub Pages link if deployed.*)
 
 ## 📦 Repository Link
-(*Add your GitHub Repository link here.*)
+https://github.com/kbrian1237/portifolioclone
